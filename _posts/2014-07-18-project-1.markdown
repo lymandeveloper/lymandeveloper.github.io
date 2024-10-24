@@ -3,9 +3,9 @@ layout: default
 title: Power Kart Racing
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: PowerKartRacing.png
 alt: image-alt
 project-date: Feb 2024 - Sept 2024
 client: Polytron
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 3D kart racing game with local multiplayer for 1-4 players. Players position and rank calculated by using Spline. A rubberbanding system to dynamically adjust the speed of AI. Disconnected players can reconnect to the game. Featuring 5 unique upgradeable powerups like rocket launcher, boost, smoke, shield, and EMP. Optimized for smooth performance on low-end TV devices.
 ---
