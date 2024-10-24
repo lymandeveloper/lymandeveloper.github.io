@@ -7,6 +7,7 @@ link: https://lymangames.itch.io/dragons-vs-monsters
 platform: Itch Io
 img: DVM.png
 logo: DVM1.png
+gif: DVM rev.gif
 alt: image-alt
 project-date: Sept 2023
 client: Self
