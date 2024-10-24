@@ -4,7 +4,7 @@ email: joshuapunyanan@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Unity - Construct 3 - AI - Multiplayer"
+skills: "Unity - Construct 3 - Artificial Intelligence - Multiplayer"
 meta_author: Punyanan Joshua
 
 # Google webmaster tools
@@ -47,8 +47,7 @@ address:
   - line: Jakarta
 
 # Credits content
-credits: 
-  - line: +62 882-1242-3079
+credits: +62 882-1242-3079
 
 # Build settings
 markdown: kramdown
