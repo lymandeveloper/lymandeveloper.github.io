@@ -3,7 +3,7 @@ layout: default
 title: Power Kart Racing
 modal-id: 1
 date: 2014-07-18
-img: PowerKartRacing.png
+img: PowerKartRacing
 alt: image-alt
 project-date: Feb 2024 - Sept 2024
 client: Polytron
