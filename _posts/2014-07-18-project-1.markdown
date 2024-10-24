@@ -5,6 +5,8 @@ modal-id: 1
 date: 2014-07-18
 img: PowerKartRacing.png
 logo: PowerKartRacing1.png
+link: https://play.google.com/store/apps/details?id=com.hit.powerkartracing&hl=en_US
+platform: Google Play
 alt: image-alt
 project-date: Feb 2024 - Sept 2024
 client: Polytron
