@@ -2,6 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
+title: Hallow Survivor
 img: HallowSurvivor.png
 logo: HallowSurvivor1.png
 link : https://lymangames.itch.io/hallow-survivor
