@@ -5,6 +5,7 @@ date: 2014-07-17
 title: Hallow Survivor
 img: HallowSurvivor.png
 logo: HallowSurvivor1.png
+gif: hallow 400x225.gif
 link : https://lymangames.itch.io/hallow-survivor
 platform: Itch Io
 alt: image-alt
