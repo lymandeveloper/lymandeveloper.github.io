@@ -33,7 +33,7 @@ footer:
   copyright: Joshua Manly
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -47,7 +47,8 @@ address:
   - line: Jakarta
 
 # Credits content
-credits: '<a href="http://startbootstrap.com">Start Bootstrap</a>'
+credits: 
+  - line: +62 882-1242-3079
 
 # Build settings
 markdown: kramdown
