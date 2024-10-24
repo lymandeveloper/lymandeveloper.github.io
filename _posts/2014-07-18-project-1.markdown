@@ -4,6 +4,7 @@ title: Power Kart Racing
 modal-id: 1
 date: 2014-07-18
 img: PowerKartRacing
+logo: PowerKartRacing1
 alt: image-alt
 project-date: Feb 2024 - Sept 2024
 client: Polytron
