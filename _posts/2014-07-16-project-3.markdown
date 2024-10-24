@@ -2,10 +2,13 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+title: Dragons Vs Monsters
+link: https://lymangames.itch.io/dragons-vs-monsters
+platform: Itch Io
+img: DVM.png
+logo: DVM1.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Sept 2023
+client: Self
+description: A tower-defense game about dragons trying to defend their home againts endless monsters forces. Dragons vs Monsters is a strategic game where you don't only need to know about the ability of each units, but also the rules of the game. Assets were generated using AI. I worked on this game as sole programmer.
 ---
