@@ -30,6 +30,11 @@
                 <strong>{{ post.project-date }}</strong>
               </li>
               {% endif %}
+              {% if post.link %}
+              <li>Link:
+                 <strong><a href="{{ post.link }}">{{ post.platform }}</a></strong>
+              </li>
+              {% endif %}
               {% if post.category %}
               <li>Service:
                 <strong>{{ post.category }}</strong>
