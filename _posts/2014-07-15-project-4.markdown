@@ -9,6 +9,5 @@ platform: Itch Io
 gif: color rhythm.gif
 alt: image-alt
 project-date: Oct 2023
-client: Binus
 description: 2D Rhytm game mixed with unique rpg and color combine. WARNING! This game requires 150% focus as you will need to focus on the rhytm while also try to kill the enemies and also combine the right color. My responsibilities : Programming (Menu and gameplay), Implement Sound System, Programming UI/UX.
 ---
