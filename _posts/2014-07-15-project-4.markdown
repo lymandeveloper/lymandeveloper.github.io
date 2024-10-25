@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 4
+title: Color Rhythm
 date: 2014-07-15
 img: color rhythm.png
 logo: color rhythm1.png
